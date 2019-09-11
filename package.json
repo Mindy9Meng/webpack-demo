@@ -1,0 +1,38 @@
+{
+  "name": "useWebpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hx-angry-panda/use-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hx-angry-panda/use-webpack/issues"
+  },
+  "homepage": "https://github.com/Hx-angry-panda/use-webpack#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "postcss-cssnext": "^3.1.0",
+    "precss": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.12.0",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^7.0.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^3.12.0"
+  }
+}
